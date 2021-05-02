@@ -1,0 +1,123 @@
+[
+  {
+    "topic": "Volume Bangun Ruang Gabungan",
+    "exercise": "Sebuah kubus yang memiliki panjang sisi 6 cm akan diletakkan di atas sebuah balok yang berukuran 7 cm×12 cm×9 cm. Jika dihitung secara keseluruhan, volume bangun gabungan tersebut adalah ...",
+    "option": [
+      "756 cm3",
+      "992 cm3",
+      "972 cm3",
+      "1.086 cm3"
+    ],
+    "answer": 2,
+    "solver": "Pertama, kita hitung volume kubus tersebut. \nVolume kubus = s3 = 63 = 216 cm3. \nKemudian, kita hitung volume balok tersebut. \nVolume balok = p × l × t =7 × 12 × 9 = 756 cm3. \nDengan demikian, volume gabungan dari kedua bangun tersebut adalah sebagai berikut. \nVolume gabungan = Volume kubus + Volume balok \n= 216 cm3 + 756 cm3 \n= 972 cm3"
+  },
+  {
+    "topic": "Minimum, Maksimum, dan Modus",
+    "image": "quiz2No2",
+    "exercise": "Berikut disajikan diagram batang hasil PAT Matematika siswa kelas 6. Dari diagram di bawah, banyak siswa yang mendapatkan nilai 6 adalah ... orang.",
+    "option": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "answer": 1,
+    "solver": "Terlihat pada diagram, siswa yang mendapatkan nilai 6 ada 6 orang."
+  },
+  {
+    "topic": "Limas",
+    "exercise": "Doni ingin membuat kerangka limas segi enam sama sisi dengan panjang rusuk 15 cm. Panjang kawat yang dibutuhkan Doni untuk membuat 5 buah limas segi enam adalah ... m.",
+    "option": [
+      1.8,
+      4.5,
+      9,
+      13.5
+    ],
+    "answer": 2,
+    "solver": "Panjang kawat yang dibutuhkan untuk membuat satu limas itu sama dengan panjang rusuk keseluruhan limas tersebut. \nKarena bangun yang dimaksud adalah limas segi enam sama sisi, maka panjang setiap rusuknya sama dan jumlah rusuknya ada 12 buah. \nOleh karena itu, kawat yang dibutuhkan untuk membuat 1 limas segi enam sama sisi adalah \n12×15 cm = 180 cm \nPanjang kawat yang dibutuhkan Doni untuk membuat 5 limas segi enam beraturan dapat dihitung sebagai berikut. \n= 5×180 cm \n= 900 cm \n= 9 m"
+  },
+  {
+    "topic": "Pangkat dan Akar Bilangan",
+    "exercise": "Hasil dari 17^2 – 15^2 adalah....",
+    "option": [
+      4,
+      16,
+      64,
+      128
+    ],
+    "answer": 2,
+    "solver": "17^2 – 15^2 = (17 x 17) – (15 x 15) \n= 289 – 225 \n= 64"
+  },
+  {
+    "topic": "Pecahan",
+    "exercise": "1 ¾ diubah ke persen menjadi....",
+    "option": [
+      "125%",
+      "145%",
+      "165%",
+      "175%"
+    ],
+    "answer": 3,
+    "solver": "Ubah pecahan campurannya ke percahan biasa \n1 ¾  = 74→kalikan dengan 100% \n= 74×100% = 175%"
+  },
+  {
+    "topic": "Operasi Hitung Bilangan ",
+    "exercise": "Hasil dari 70 – (–25) adalah....",
+    "option": [
+      -95,
+      -45,
+      45,
+      95
+    ],
+    "answer": 3,
+    "solver": "Ketika tanda negatif (–) bertemu dengan negatif (–), maka operasi bilangannya akan berubah menjadi positif (+), sehingga: \n70 – (–25) = 70 + 25 \n= 95"
+  },
+  {
+    "topic": "Satuan Ukuran",
+    "exercise": "Kebun Pak Warno berbentuk persegi panjang dengan ukuran panjang 4,2 dam dan lebar 370 dm. Keliling kebun Pak Warno adalah...meter",
+    "option": [
+      82.4,
+      124,
+      158,
+      225
+    ],
+    "answer": 2,
+    "solver": "Karena hasil yang ditanya dalam bentuk meter, maka ubah terlebih dahulu satuan panjang dan lebarnya ke dalam meter \nPanjang = 4,2 dam = 4,2 x 10 m = 42 m \nLebar     = 370 dm = 370 : 10 m = 37 m \nKeliling = 2 x (panjang + lebar) \n= 2 x (42 m + 37 m) \n= 2 x 79 m \n= 158 meter \nJadi, keliling kebun Pak Warno adalah 158 meter"
+  },
+  {
+    "topic": "Satuan Ukuran",
+    "exercise": "Di sebuah tempat penyewaan peralatan pesta terdapat 6 gros piring. Sebanyak 4 lusin dipinjam oleh Bu Tuti dan sebanyak 2 gros dipinjam oleh Bu Ayu. Piring yang tersisa di tempat tersebut sebanyak...buah",
+    "option": [
+      528,
+      588,
+      628,
+      688
+    ],
+    "answer": 0,
+    "solver": "1 gross = 144 buah \n1 lusin = 12 buah \nJumlah semua piring = 6 x 144 = 864 buah \nDipinjam Bu Tuti = 4 x 12 = 48 buah \nDipinjam Bu Ayu = 2 x 144 = 288 buah \nSisa piring = Jumlah semua piring – dipinjam Bu Tuti – dipinjam Bu Ayu \n= 864 – 48 – 288 \n= 528 buah"
+  },
+  {
+    "topic": "Sifat dan unsur bangun datar (segitiga, segiempat, lingkaran)",
+    "exercise": "Perhatikan sifat-sifat bangun datar di bawah ini! \n1. Memiliki 4 sisi yang sama panjang \n2. Sudut-sudut yang berhadapan sama besar \n3. Diagonalnya saling berpotongan tegak lurus dan saling membagi dua sama panjang \nBangun datar yang mempunyai sifat-sifat di atas adalah....",
+    "option": [
+      "persegi panjang",
+      "Layang-layang",
+      "Trapesium",
+      "Belah ketupat"
+    ],
+    "answer": 3,
+    "solver": "Bangun yang memenuhi semua sifat-sifat di atas adalah belah ketupat, karena: \n• pada persegi panjang semua sudutnya sama besar dan kedua diagonal berpotongan tidak tegak lurus \n• pada layang-layang kedua diagonalnya berpotongan tegak lurus, tetapi tidak sama panjang \n• pada trapesium hanya terdapat dua pasang sudut yang sama besar dan diagonalnya sama panjang"
+  },
+  {
+    "topic": "Satuan Ukuran ",
+    "exercise": "Tiga buah tangki masing-masing berisi minyak tanah 4,25 m3, 2.500 liter, dan 5.500 dm3. Jumlah minyak tanah seluruhnya ada...liter",
+    "option": [
+      10700,
+      11425,
+      12250,
+      13396
+    ],
+    "answer": 2,
+    "solver": "Ubah semua satuannya menjadi liter, maka \n4,25 m3 = 4,25 x 1.000 liter = 4.250 liter \n5.500 dm3 = 5.500 x 1 liter = 5.500 liter \nJumlah seluruh minyak tanah \n= 4,25 m3+ 2.500 liter + 5.500 dm3 = 4.250 liter + 2.500 liter + 5.500 liter \n= 12.250 liter"
+  }
+]

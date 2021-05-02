@@ -1,0 +1,126 @@
+[
+  {
+    "topic": "Sifat dan unsur bangun ruang (kubus, balok, tabung",
+    "exercise": "Perhatikan sifat-sifat bangun ruang di bawah ini! \n1. Memiliki 6 sisi, di mana sisi-sisi yang sehadap sejajar dan sama luas \n2. Memiliki 8 titik sudut \n3. Memiliki 12 rusuk, di mana rusuk-rusuk yang sejajar sama panjang \nBangun ruang yang memiliki sifat-sifat tersebut adalah....",
+    "option": [
+      "Balok",
+      "Kubus",
+      "Tabung",
+      "Kerucut"
+    ],
+    "answer": 0,
+    "solver": "Bangun yang memiliki sifat-sifat di atas adalah balok, karena: \n• pada kubus terdapat 6 sisi yang berbentuk persegi sama luas \n• pada tabung tidak terdapat titik sudut \n• pada kerucut memiliki 1 titik puncak"
+  },
+  {
+    "topic": "Satuan Ukuran",
+    "exercise": "Pak Imam mempunyai tiga kebun yang luasnya 3 ha, 1.900 m2, dan 1,75 are. Jika kebunnya dijual 2,5 ha, maka luas kebun Pak Imam sekarang...m2",
+    "option": [
+      5.075,
+      6.075,
+      7.075,
+      8.075
+    ],
+    "answer": 2,
+    "solver": "Karena hasil yang diminta dalam satuan m2, maka ubah semua satuannya menjadi m2 \n3 ha = 3 x 10.000 m2 = 30.000 m2 \n1,75 are = 1,75 x 100 m2 = 175 m2 \n2,5 ha = 2,5 x 10.000 m2 = 25.000 m2 \nMaka, luas kebun Pak Imam sekarang \n= 30.000 m2 + 1.900 m2 + 175 m2 – 25.000 m2 = 7.075 m2"
+  },
+  {
+    "topic": "Sifat dan unsur bangun ruang (kubus, balok, tabung",
+    "exercise": "Sebuah kaleng berbentuk balok dengan ukuran panjang 25 cm, lebar 20 cm, dan tinggi 18 cm diisi minyak goreng sampai penuh. Volume minyak goreng di dalam kaleng adalah...cm3",
+    "option": [
+      7.700,
+      8.200,
+      9.000,
+      10.100
+    ],
+    "answer": 2,
+    "solver": "Volume minyak goreng dalam kaleng = volume balok \nVolume balok = p x l x t \nV= p x l x t \nV= 25 cm x 20 cm x 18 cm \nV = 9.000 cm3"
+  },
+  {
+    "topic": "Operasi Hitung Bilangan",
+    "exercise": "Banyak siswa di sekolah Mekar Sari 210 orang, yang terdiri dari 6 kelas dengan jumlahperkelas sama. Di kelas tiga bertambah 2 siswa pindahan. Maka jumlah siswa di kelas tiga adalah....",
+    "option": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "answer": 0,
+    "solver": "Diketahui: \nTotal siswa = 210 \nJumlah kelas = 6 \nSiswa tambahan kelas tiga = 2 \nDitanya: Jumlah siswa kelas 3 = … ? Jawab: \n210 : 6 + 2 = 35 + 2 = 37 siswa"
+  },
+  {
+    "topic": "Satuan Ukur",
+    "exercise": "Hitung konversi satuan panjang yang berbeda \nHasil dari 200 km + 15 hm – 21.000 m adalah…m",
+    "option": [
+      180.500,
+      181.680,
+      182.366,
+      183.658
+    ],
+    "answer": 0,
+    "solver": "200 km x 1000 m = 200.000 m \n15 hm x 100 m = 1500 m \nMaka 200.000 m + 1500 m – 21.000 m = 180.500 m"
+  },
+  {
+    "topic": "Sifat dan unsur bangun datar (Segitiga, Segiempat, Lingkaran)",
+    "exercise": "Perhatikan gambar di atas ini! Luas bangun datar di atas adalah….",
+    "image": "quiz3No6",
+    "option": [
+      121,
+      169,
+      225,
+      625
+    ],
+    "answer": 2,
+    "solver": "Luas persegi = sisi x sisi \nLuas persegi = 15 x 15 = 225 cm2"
+  },
+  {
+    "topic": "Bidang dan Letak Koordinat",
+    "exercise": "Perhatikan gambar di atas ini! Titik koordinat A dan C pada gambar adalah….",
+    "image": "quiz3No7",
+    "option": [
+      "(5,-2) dan (-4, 2)",
+      "(5,-2) dan (-5, -3)",
+      "(7,4) dan (-4, -2)",
+      "(7,4) dan (-5, -3)"
+    ],
+    "answer": 3,
+    "solver": "Titik koordinat dimulai dari sumbu x lalu ke sumbu y \nA = (7, 4) \nB = (-4, 2) \nC = (-5, -3) \nD = (5,-2) meter \nJadi, keliling kebun Pak Warno adalah 158 meter"
+  },
+  {
+    "topic": "Mengumpulkan dan Mengolah Data",
+    "exercise": "Perhatikan tabel persediaan buah di rumah Dimas! Persediaan buah dengan jumlah yang sama adalah….",
+    "image": "quiz3No8",
+    "option": [
+      "Manga dan Manggis",
+      "Pisang dan Alpukat",
+      "Apel dan Pisang",
+      "Jeruk dan Alpukat"
+    ],
+    "answer": 2,
+    "solver": "Berdasarkan tabel persediaan buah Dimas dengan jumlah yang sama adalah apel dan pisang"
+  },
+  {
+    "topic": "Menyelesaikan Masalah yang Berkaitan dengan Data ",
+    "exercise": "Perhatikan tabel uang jajan di bawah ini! Rata-rata uang jajan pada tabel tersebut adalah….",
+    "image": "quiz3No9",
+    "option": [
+      "Rp5.000",
+      "Rp6.000",
+      "Rp7.000",
+      "Rp8.500"
+    ],
+    "answer": 1,
+    "solver": "Mencari rata-rata adalah jumlah keseluruhan dibagi banyaknya data \nJumlah uang jajan = Rp30.000 \nBanyaknya data = 5 \nMaka Rp30.000,00 : 5 = Rp6.000"
+  },
+  {
+    "topic": "Penjumlahan Bilangan Bulat Negatif",
+    "exercise": "Sebuah mobil yang mula-mula berada di titik A berjalan ke utara dengan kecepatan 30 km/jam. Setelah 2 jam, mobil berbalik arah dan berjalan ke selatan dengan kecepatan 40 km/jam. Jika mobil berhenti setelah 3 jam berbalik arah, posisi mobil saat ini adalah ....",
+    "option": [
+      "120 km di sebelah utara titik A",
+      "120 km di sebelah selatan titik A",
+      "60 km di sebelah utara titik A",
+      "60 km di sebelah selatan titik A"
+    ],
+    "answer": 3,
+    "solver": "Jarak yang ditempuh ke utara = kecepatan x waktu \n = 30 x 2 = 60 km \nJarak yang ditempuh ke selatan = kecepatan x waktu \n= 40 x 3= 120 km \nAnggap arah utara bernilai (+) dan arah selatan bernilai (-), maka jarak mobil ketika berhenti dari titik A dapat dihitung sebagai berikut. \nPosisi mobil dari titik A = jarak ke utara + jarak ke selatan \n= 60 km + (-120 km) \n= 60 km - 120 km = - 60 km \nmobil dari titik A bernilai (-), maka mobil berada 60 km di sebelah selatan titik A."
+  }
+]

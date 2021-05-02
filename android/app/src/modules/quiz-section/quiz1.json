@@ -1,0 +1,124 @@
+[
+    {
+        "topic": "Penjumlahan bilangan bulat negatif",
+        "exercise": "Santi mula-mula diam. Dia menghadap kanan dan berjalan mundur sebanyak 37 langkah. Kemudian dia berjalan mundur lagi 12 langkah. Posisi Santi sekarang adalah...",
+        "option": [
+            "Sebelah kanan 25 langkah dari posisi awal",
+            "Sebelah kiri 49 langkah dari posisi awal",
+            "Sebelah kanan 49 langkah dari posisi awal",
+            "Sebelah kiri 25 langkah dari posisi awal"
+        ],
+        "answer": 1,
+        "solver": "Berjalan mundur artinya (-) Berjalan lagi (+) Posisi Ami sekarang berada di titik = (-37)+(-12) = -49 Tanda negatif artinya berada di sebelah kiri posisi awal."
+    },
+    {
+        "topic": "Penjumlahan bilangan bulat negatif",
+        "exercise": "Hani mula-mula berada di titik nol. Hani melangkah ke sebelah kiri sejauh 14 langkah. Kemudian Hani melangkah lagi ke sebelah kiri awal sebanyak 16 langkah. Notasi yang tepat sesuai pernyataan di atas ...",
+        "option": [
+            "(-14) + 16 = 2",
+            "16 – 14 = 2",
+            "(-14) + (-16) = -30",
+            "14 + 16 = 30"
+        ],
+        "answer": 2,
+        "solver": "Melangkah ke kiri tandanya (-) \nMelangkah lagi tandanya (+) \nJadi notasi yang tepat adalah (-14) + (-16) = -30."
+    },
+    {
+        "topic": "Operasi bilangan bulat negatif",
+        "exercise": "-11- (-78) + (-26)...",
+        "option": [
+            "63",
+            "41",
+            "-88",
+            "-115"
+        ],
+        "answer": 1,
+        "solver": "-11 - (-78) + (-26) = -11 + 78 - 26 \n67 - 26 \n41"
+    },
+    {
+        "topic": "Operasi hitung campuran ",
+        "exercise": "Jika a+25 = -72 dan -38+b=36 , maka nilai a-b adalah...",
+        "option": [
+            "-171",
+            "23",
+            "23",
+            "49"
+        ],
+        "answer": 0,
+        "solver": "a+25 = -72 maka a = -72 - 25 = -97 \n-38+b = 36 maka b = 36 + 38 = 74 \nJadi a - b =-97 - 74 = -171"
+    },
+    {
+        "topic": "Operasi hitung campuran",
+        "exercise": "Hasil dua bilangan yang berbeda adalah 64 dan jumlahnya 20, maka selisih kedua bilangan tersebut adalah...",
+        "option": [
+            0,
+            12,
+            19,
+            30
+        ],
+        "answer": 1,
+        "solver": "Mencari 2 bilangan yang hasil kalinya 64, bisa menggunakan faktor dari 64. \n1 x 64 = 64 \n2 x 32 = 64 \n4 x 16 = 64 \n8 x 8 = 64 \nDari faktor 64 pilih yang jumlahnya 20 \n1 + 64 = 65 \n2 + 32 = 34 \n4 + 16 = 20 \n8 + 8 = 16 \nJadi bilangan yang dimaksud adalah 4 dan 16 \nJadi selisih kedua bilangan tersebut adalah 16 – 4 = 12."
+    },
+    {
+        "topic": "Unsur-unsur lingkaran",
+        "exercise": "Garis RS disebut sebagai...",
+        "image": "quiz1No6",
+        "option": [
+            "Busur",
+            "Tali busur",
+            "Apotema",
+            "Diameter"
+        ],
+        "answer": 2,
+        "solver": "Garis RS garis yang tegak lurus dengan tali busur TU. \nJadi garis RS disebut apotema, karena apotema adalah sebuah garis yang ditarik dari titik pusat lingkaran dan tegak lurus dengan tali busur."
+    },
+    {
+        "topic": "Bangun datar gabungan",
+        "image": "quiz1No7",
+        "exercise": "Keliling bangun yang diarsir adalah...",
+        "option": [
+            "70 cm",
+            "71 cm",
+            "72 cm",
+            "73 cm"
+        ],
+        "answer": 2,
+        "solver": "diameter lingkaran = d = 14 cm \nKeliling 1/2  lingkaran = 1/2πd \n = 1/2 x 22/7 x 14 \n= 22 cm \nJadi, Keliling total = 2 × keliling 1/2 lingkaran + panjang sisi atas + panjang sisi bawah \n= 2 × 22 cm + 14 cm + 14  cm \n= 44 cm + 28 cm \n= 72 cm"
+    },
+    {
+        "topic": "Kubus dan balok",
+        "exercise": "Risma mempunyai kotak pensil berbentuk kubus dengan panjang sisinya 20 cm. Kemudian Doni juga punyak kotak pensil berbentuk kubus dengan panjang sisi 15 cm. Selisih volume kotak pensil mereka berdua adalah .... cm³",
+        "option": [
+            5.375,
+            5.600,
+            4.625,
+            6.000
+        ],
+        "answer": 2,
+        "solver": "Volume kotak pensil Risma = volume kubus = s3 \n= 203 \n= 20 × 20  × 20 \n=8.000 cm3 \nVolume kotak pensil Doni = volume kubus = s3 \n=153 \n=15 × 15 × 15 \n=3.375 cm3 \nJadi selisih volume kotak pensil mereka adalah 8.000 cm3 – 3.375 cm3 = 4.625 cm3. "
+    },
+    {
+        "topic": "Tabung",
+        "exercise": "Sebuah tabung memiliki jari-jari dan tinggi masing-masing 10 cm dan 30 cm. Volume tabung tersebut adalah...",
+        "option": [
+            "7.471 cm3",
+            "7.942 cm3",
+            "9.420 cm3",
+            "8.710 cm3"
+        ],
+        "answer": 2,
+        "solver": "Jari-jari = r = 10 cm \nTinggi = t = 30 cm \nJadi, \nVolume tabung = πr2t \n= 3,14 × 102 ×30 \n=3,14 ×100 × 30 \n= 9.420 cm3"
+    },
+    {
+        "topic": "Limas",
+        "exercise": "Sebuah limas segiempat memiliki alas berbentuk persegi dengan panjang 6 cm. Jika tinggi sisi tegak limas adalah 10 cm, luas permukaan limas tersebut adalah ... ",
+        "option": [
+            "120 cm2",
+            "132 cm2",
+            "156 cm2",
+            "276 cm2"
+        ],
+        "answer": 2,
+        "solver": "Diketahui bahwa panjang sisi alas limas 6 cm dan tinggi sisi tegaknya 10 cm. \nIngat bahwa rumus untuk menentukan luas permukaan limas adalah sebagai berikut. \nLlimas = Lalas + 4 × Lsisi tegak \nDengan demikian, diperoleh hasil perhitungan sebagai berikut. \nLlimas = Lalas + 4 × Lsisi tegak \n= (s × s) + (4 × 1/2 × s × tsisi tegak) \n= (6 × 6) + (4 × 1/2 × 6 × 10) \n= 36 + 120 \n= 156 \nJadi, luas permukaan limas tersebut adalah 156 cm2."
+    }
+]
